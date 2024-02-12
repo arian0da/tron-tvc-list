@@ -7,7 +7,7 @@
     "homepage": "https://xai.games/",
     "existingMarkets": [
         {
-            "source": Binance
+            "source": "Binance",
             "pairs": [
                 "XAI/USDT"
             ]
